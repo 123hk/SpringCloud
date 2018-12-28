@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.inta:common.Tools:0.0.9-dev">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/inta/common.tools/0.0.9-dev/common.Tools-0.0.9-dev.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/inta/common.Tools/0.0.9-dev/common.Tools-0.0.9-dev-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/inta/common.Tools/0.0.9-dev/common.Tools-0.0.9-dev-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

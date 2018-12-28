@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaseUserProject.iml" filepath="$PROJECT_DIR$/BaseUserProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common.eureka/common.eureka.iml" filepath="$PROJECT_DIR$/common.eureka/common.eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BaseCompanyProject/mid.biz.company/company.iml" filepath="$PROJECT_DIR$/../BaseCompanyProject/mid.biz.company/company.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.atom/demo.atom.iml" filepath="$PROJECT_DIR$/demo.atom/demo.atom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.atom.api/demo.atom.api.iml" filepath="$PROJECT_DIR$/demo.atom.api/demo.atom.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.biz/demo.biz.iml" filepath="$PROJECT_DIR$/demo.biz/demo.biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.zuul/demo.zuul.iml" filepath="$PROJECT_DIR$/demo.zuul/demo.zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mid.atom.cache/mid.atom.cache.iml" filepath="$PROJECT_DIR$/mid.atom.cache/mid.atom.cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BaseProject2/mid.atom.company/mid.atom.company.iml" filepath="$PROJECT_DIR$/../BaseProject2/mid.atom.company/mid.atom.company.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mid.biz.unilogin/mid.biz.unilogin.iml" filepath="$PROJECT_DIR$/mid.biz.unilogin/mid.biz.unilogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mid.zuul.midground/mid.zuul.midground.iml" filepath="$PROJECT_DIR$/mid.zuul.midground/mid.zuul.midground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qhyf2.atom.login/qhyf2.atom.login.iml" filepath="$PROJECT_DIR$/qhyf2.atom.login/qhyf2.atom.login.iml" />
+    </modules>
+  </component>
+</project>

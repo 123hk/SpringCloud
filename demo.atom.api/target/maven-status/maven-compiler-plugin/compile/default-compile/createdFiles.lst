@@ -1,0 +1,6 @@
+com\demo\atom\api\model\BaseModel.class
+com\demo\atom\api\model\PlatformUser.class
+com\demo\atom\api\result\ResultCode.class
+com\demo\atom\api\result\Result.class
+com\demo\atom\api\IFeign\IPlatformUser.class
+com\demo\atom\api\result\ResultFactory.class
