@@ -20,6 +20,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="a1111" target="1.5" />
       <module name="common.eureka" target="1.8" />
       <module name="company" target="1.8" />
       <module name="demo.atom" target="1.8" />
