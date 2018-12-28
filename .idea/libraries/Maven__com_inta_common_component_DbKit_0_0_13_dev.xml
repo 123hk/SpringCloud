@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.inta:common.component.DbKit:0.0.13-dev">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/inta/common.component.DbKit/0.0.13-dev/common.component.DbKit-0.0.13-dev.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/inta/common.component.DbKit/0.0.13-dev/common.component.DbKit-0.0.13-dev-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/inta/common.component.DbKit/0.0.13-dev/common.component.DbKit-0.0.13-dev-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.inta:common.component.zuul:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/inta/common.component.zuul/0.0.1-SNAPSHOT/common.component.zuul-0.0.1-20181228.015056-40.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/inta/common.component.zuul/0.0.1-SNAPSHOT/common.component.zuul-0.0.1-20181228.015056-40-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/inta/common.component.zuul/0.0.1-SNAPSHOT/common.component.zuul-0.0.1-20181228.015056-40-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

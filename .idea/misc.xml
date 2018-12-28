@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../BaseProject2/common.eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/../BaseProject2/mid.atom.user/pom.xml" />
+        <option value="$PROJECT_DIR$/../BaseProject2/mid.biz.unilogin/pom.xml" />
+        <option value="$PROJECT_DIR$/../BaseProject2/mid.biz.user/pom.xml" />
+        <option value="$PROJECT_DIR$/../BaseProject2/mid.zuul.midground/pom.xml" />
+        <option value="$PROJECT_DIR$/../BaseProject2/mid.zuul.unilogin/pom.xml" />
+        <option value="$PROJECT_DIR$/common.eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/mid.atom.user/pom.xml" />
+        <option value="$PROJECT_DIR$/mid.biz.unilogin/pom.xml" />
+        <option value="$PROJECT_DIR$/mid.biz.user/pom.xml" />
+        <option value="$PROJECT_DIR$/mid.zuul.midground/pom.xml" />
+        <option value="$PROJECT_DIR$/mid.zuul.unilogin/pom.xml" />
+        <option value="$PROJECT_DIR$/../BaseProject2/qhyf2.atom.login/pom.xml" />
+        <option value="$PROJECT_DIR$/qhyf2.atom.login/pom.xml" />
+        <option value="$PROJECT_DIR$/../BaseProject2/mid.atom.company/pom.xml" />
+        <option value="$PROJECT_DIR$/../BaseProject2/mid.biz.company/pom.xml" />
+        <option value="$PROJECT_DIR$/../BaseProject2/mid.atom.cache/pom.xml" />
+        <option value="$PROJECT_DIR$/mid.atom.cache/pom.xml" />
+        <option value="$PROJECT_DIR$/demo.zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/demo.atom/pom.xml" />
+        <option value="$PROJECT_DIR$/demo.biz/pom.xml" />
+        <option value="$PROJECT_DIR$/pms.atom.api.platmanage/pom.xml" />
+        <option value="$PROJECT_DIR$/demo.atom.api/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
