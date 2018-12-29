@@ -1,0 +1,4 @@
+spring:
+  profiles:
+    #    active: test #测试环境使用配置， port：
+    active: dev #开发环境使用配置， port：6011

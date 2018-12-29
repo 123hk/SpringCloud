@@ -1,0 +1,45 @@
+server:
+  port: 6019
+
+spring:
+  application:
+    name: cloud-zuul
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://123hk:123456@localhost:6010/eureka
+  instance:
+    prefer-ip-address: true
+
+security:
+  basic:
+    enabled: false
+  user:
+    name: user
+    password: 123
+
+zuul:
+  #  需要忽略的头部信息，不在传播到其他服务
+  sensitive-headers: Access-Control-Allow-Origin
+  #  add-host-header: true  如果需要网关在进行路由转发前为请求设置 host 信息，需要开启该配置
+  add-host-header: true
+  host:
+    connect-timeout-millis: 10000
+    socket-timeout-millis: 60000
+  ignored-services: '*' #配置需要忽略的服务，多个用逗号分隔
+  routes: #配置路由
+    cloud-service: # 逻辑服务
+      path: /api/**
+
+ribbon:
+  ReadTimeout: 30000
+  ConnectTimeout: 30000
+
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeout-in-milliseconds: 40000

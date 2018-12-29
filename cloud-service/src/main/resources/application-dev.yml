@@ -1,0 +1,27 @@
+server:
+  port: 6012
+
+spring:
+  application:
+    name: cloud-service
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://123hk:123456@localhost:6010/eureka
+    healthcheck:
+      enabled: true                             # 开启健康检查（依赖spring-boot-starter-actuator）
+  instance:
+    lease-renewal-interval-in-seconds: 5      # 心跳时间，即服务续约间隔时间（缺省为30s）
+    lease-expiration-duration-in-seconds: 10  # 发呆时间，即服务续约到期时间（缺省为90s）
+    prefer-ip-address: true
+
+feign:
+  hystrix:
+    enabled: true # feign 默认关闭 hystrix,需要熔断时必须加上该配置
+
+ribbon:
+  eureka:
+    enabled: true
+  ReadTimeout: 60000
+  ConnectTimeout: 60000
