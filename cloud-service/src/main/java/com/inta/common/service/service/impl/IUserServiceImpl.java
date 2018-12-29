@@ -2,14 +2,14 @@ package com.inta.common.service.service.impl;
 
 import com.inta.common.api.model.User;
 import com.inta.common.service.agency.IUserAgency;
-import com.inta.common.service.service.UserService;
+import com.inta.common.service.service.IUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
 
 @Service
-public class UserServiceImpl implements UserService {
+public class IUserServiceImpl implements IUserService {
 
     @Autowired
     private IUserAgency serviceAgency;

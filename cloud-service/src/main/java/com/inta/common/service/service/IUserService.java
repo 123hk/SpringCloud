@@ -4,7 +4,7 @@ import com.inta.common.api.model.User;
 import java.util.List;
 
 
-public interface UserService {
+public interface IUserService {
 
     List<User> getList();
 
